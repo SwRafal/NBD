@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "China",
+    "value": {
+      "MinimalBMI": 15.45756779740527,
+      "AverageBMI": 25.581559894071546,
+      "MaximumBMI": 42.36228470295767
+    }
+  },
+  {
+    "_id": "Afghanistan",
+    "value": {
+      "MinimalBMI": 18.4302993485763,
+      "AverageBMI": 25.048400880254945,
+      "MaximumBMI": 31.680724277814615
+    }
+  },
+  {
+    "_id": "Guinea-Bissau",
+    "value": {
+      "MinimalBMI": 23.28512818429207,
+      "AverageBMI": 24.42720412339052,
+      "MaximumBMI": 26.54403588086242
+    }
+  },
+  {
+    "_id": "Kenya",
+    "value": {
+      "MinimalBMI": 21.963094173998595,
+      "AverageBMI": 25.844977679237385,
+      "MaximumBMI": 32.415973001368904
+    }
+  },
+  {
+    "_id": "United States",
+    "value": {
+      "MinimalBMI": 18.80366267168511,
+      "AverageBMI": 25.746534319422317,
+      "MaximumBMI": 36.69514941999169
+    }
+  },
+  {
+    "_id": "South Korea",
+    "value": {
+      "MinimalBMI": 19.481858628477152,
+      "AverageBMI": 24.68188694874893,
+      "MaximumBMI": 31.353844450262812
+    }
+  },
+  {
+    "_id": "Egypt",
+    "value": {
+      "MinimalBMI": 17.650429873238078,
+      "AverageBMI": 24.279172249085583,
+      "MaximumBMI": 32.03372250044894
+    }
+  },
+  {
+    "_id": "Gambia",
+    "value": {
+      "MinimalBMI": 17.840466777748915,
+      "AverageBMI": 23.773405222453228,
+      "MaximumBMI": 29.041518380755523
+    }
+  },
+  {
+    "_id": "New Caledonia",
+    "value": {
+      "MinimalBMI": 24.07180767559938,
+      "AverageBMI": 25.50588178834554,
+      "MaximumBMI": 26.939955901091704
+    }
+  },
+  {
+    "_id": "Yemen",
+    "value": {
+      "MinimalBMI": 20.910656892847584,
+      "AverageBMI": 25.5207419021418,
+      "MaximumBMI": 34.85489627858924
+    }
+  },
+  {
+    "_id": "Zambia",
+    "value": {
+      "MinimalBMI": 20.33871951352903,
+      "AverageBMI": 25.857875377943593,
+      "MaximumBMI": 31.448646035048586
+    }
+  },
+  {
+    "_id": "Kuwait",
+    "value": {
+      "MinimalBMI": 22.43979747671335,
+      "AverageBMI": 25.231665011916373,
+      "MaximumBMI": 27.18431873880667
+    }
+  },
+  {
+    "_id": "Cambodia",
+    "value": {
+      "MinimalBMI": 21.873859826171213,
+      "AverageBMI": 27.38397127839096,
+      "MaximumBMI": 33.32850035102713
+    }
+  },
+  {
+    "_id": "Sint Maarten",
+    "value": {
+      "MinimalBMI": 22.218504166585912,
+      "AverageBMI": 23.160784820344972,
+      "MaximumBMI": 24.103065474104028
+    }
+  },
+  {
+    "_id": "Martinique",
+    "value": {
+      "MinimalBMI": 24.025383631333916,
+      "AverageBMI": 24.025383631333916,
+      "MaximumBMI": 24.025383631333916
+    }
+  },
+  {
+    "_id": "Guinea",
+    "value": {
+      "MinimalBMI": 20.460478773371797,
+      "AverageBMI": 27.9142215967982,
+      "MaximumBMI": 34.462128538412365
+    }
+  },
+  {
+    "_id": "Samoa",
+    "value": {
+      "MinimalBMI": 20.544882004532678,
+      "AverageBMI": 20.544882004532678,
+      "MaximumBMI": 20.544882004532678
+    }
+  },
+  {
+    "_id": "Comoros",
+    "value": {
+      "MinimalBMI": 19.73678859401531,
+      "AverageBMI": 25.439043034337953,
+      "MaximumBMI": 33.864658401133916
+    }
+  },
+  {
+    "_id": "Turkmenistan",
+    "value": {
+      "MinimalBMI": 21.536036875349126,
+      "AverageBMI": 26.074693406233422,
+      "MaximumBMI": 30.263793694794966
+    }
+  },
+  {
+    "_id": "Saint Kitts and Nevis",
+    "value": {
+      "MinimalBMI": 25.181373219019413,
+      "AverageBMI": 27.80112893513996,
+      "MaximumBMI": 30.062612063272155
+    }
+  }
+]

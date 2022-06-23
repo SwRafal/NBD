@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvm8L3JDOwKAumMGUyJjHynDqktAdviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s26276>; rel="up"
+Last-Modified: Mon, 06 Jun 2022 19:34:34 GMT
+ETag: "6cpGBTTHvt8UsqQ8tWmCeq"
+Date: Mon, 06 Jun 2022 19:36:18 GMT
+Content-Type: application/json
+Content-Length: 21
+
+{"gpu": "RTX-3090ti"}

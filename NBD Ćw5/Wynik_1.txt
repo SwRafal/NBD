@@ -1,0 +1,39 @@
+curl: (6) Could not resolve host: –XPOST
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 06 Jun 2022 18:40:43 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl: (6) Could not resolve host: –XPOST
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 06 Jun 2022 18:41:12 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl: (6) Could not resolve host: –XPOST
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 06 Jun 2022 18:41:23 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl: (6) Could not resolve host: –XPOST
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 06 Jun 2022 18:41:32 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl: (6) Could not resolve host: –XPOST
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 06 Jun 2022 18:41:43 GMT
+Content-Type: application/json
+Content-Length: 0

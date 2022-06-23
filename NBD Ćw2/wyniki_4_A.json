@@ -1,0 +1,162 @@
+[
+  {
+    "_id": {
+      "nationality": "South Sudan"
+    },
+    "MinBMI": 25.958795187276632,
+    "AverageBMI": 25.958795187276632,
+    "MaxBMI": 25.958795187276632
+  },
+  {
+    "_id": {
+      "nationality": "Costa Rica"
+    },
+    "MinBMI": 20.494010942211922,
+    "AverageBMI": 24.650437337200202,
+    "MaxBMI": 28.898569613792326
+  },
+  {
+    "_id": {
+      "nationality": "Sierra Leone"
+    },
+    "MinBMI": 19.498876420531634,
+    "AverageBMI": 25.11304222749876,
+    "MaxBMI": 33.44826945468169
+  },
+  {
+    "_id": {
+      "nationality": "Sudan"
+    },
+    "MinBMI": 22.77184895818426,
+    "AverageBMI": 24.951753358198896,
+    "MaxBMI": 26.388338263210727
+  },
+  {
+    "_id": {
+      "nationality": "Guam"
+    },
+    "MinBMI": 20.67309032186491,
+    "AverageBMI": 22.45019365812172,
+    "MaxBMI": 24.012673635721274
+  },
+  {
+    "_id": {
+      "nationality": "Saint Kitts and Nevis"
+    },
+    "MinBMI": 25.18137321901941,
+    "AverageBMI": 27.801128935139957,
+    "MaxBMI": 30.06261206327215
+  },
+  {
+    "_id": {
+      "nationality": "Malta"
+    },
+    "MinBMI": 22.1203842493067,
+    "AverageBMI": 26.169580448971242,
+    "MaxBMI": 36.019789085882365
+  },
+  {
+    "_id": {
+      "nationality": "Guadeloupe"
+    },
+    "MinBMI": 22.066287052482927,
+    "AverageBMI": 22.066287052482927,
+    "MaxBMI": 22.066287052482927
+  },
+  {
+    "_id": {
+      "nationality": "Zimbabwe"
+    },
+    "MinBMI": 22.609825375832816,
+    "AverageBMI": 26.97591880240733,
+    "MaxBMI": 35.12027773402992
+  },
+  {
+    "_id": {
+      "nationality": "Fiji"
+    },
+    "MinBMI": 21.202149695398855,
+    "AverageBMI": 21.202149695398855,
+    "MaxBMI": 21.202149695398855
+  },
+  {
+    "_id": {
+      "nationality": "Oman"
+    },
+    "MinBMI": 23.599509054084226,
+    "AverageBMI": 25.688221135833004,
+    "MaxBMI": 27.084022161790852
+  },
+  {
+    "_id": {
+      "nationality": "Japan"
+    },
+    "MinBMI": 18.904522765080692,
+    "AverageBMI": 25.288979118123063,
+    "MaxBMI": 37.208271542614156
+  },
+  {
+    "_id": {
+      "nationality": "Bosnia and Herzegovina"
+    },
+    "MinBMI": 16.930664311421886,
+    "AverageBMI": 25.418629730315732,
+    "MaxBMI": 35.973950079941275
+  },
+  {
+    "_id": {
+      "nationality": "Togo"
+    },
+    "MinBMI": 21.483089176370907,
+    "AverageBMI": 23.268539811569156,
+    "MaxBMI": 24.55999969363162
+  },
+  {
+    "_id": {
+      "nationality": "Kosovo"
+    },
+    "MinBMI": 19.254012570630334,
+    "AverageBMI": 24.13095183240382,
+    "MaxBMI": 29.624326587170813
+  },
+  {
+    "_id": {
+      "nationality": "Ukraine"
+    },
+    "MinBMI": 17.021559565054982,
+    "AverageBMI": 25.206155364019796,
+    "MaxBMI": 36.84222756372364
+  },
+  {
+    "_id": {
+      "nationality": "Bangladesh"
+    },
+    "MinBMI": 19.809821191475773,
+    "AverageBMI": 26.693456288940414,
+    "MaxBMI": 34.06297114172177
+  },
+  {
+    "_id": {
+      "nationality": "Luxembourg"
+    },
+    "MinBMI": 19.267057864459574,
+    "AverageBMI": 26.311128380021454,
+    "MaxBMI": 33.21935122648016
+  },
+  {
+    "_id": {
+      "nationality": "United Kingdom"
+    },
+    "MinBMI": 19.427928671881645,
+    "AverageBMI": 23.785736038981,
+    "MaxBMI": 31.903158982438534
+  },
+  {
+    "_id": {
+      "nationality": "Central African Republic"
+    },
+    "MinBMI": 19.614899401982278,
+    "AverageBMI": 23.916787330266967,
+    "MaxBMI": 28.954561237220556
+  }
+]

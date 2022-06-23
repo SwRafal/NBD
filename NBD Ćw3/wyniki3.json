@@ -1,0 +1,122 @@
+﻿[
+  {
+    "hugoDirectors": {
+"identity": 108,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Tom Tykwer"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Lilly Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 25,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "James Marshall"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Lilly Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Lilly Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    }
+  },
+  {
+    "hugoDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Lilly Wachowski"
+      }
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "CAD",
+    "value": {
+      "SummaryBalance": 58375.6,
+      "AverageBalance": 5306.872727272727
+    }
+  },
+  {
+    "_id": "MKD",
+    "value": {
+      "SummaryBalance": 3835.05,
+      "AverageBalance": 3835.05
+    }
+  },
+  {
+    "_id": "HNL",
+    "value": {
+      "SummaryBalance": 16514.59,
+      "AverageBalance": 5504.863333333334
+    }
+  },
+  {
+    "_id": "VEF",
+    "value": {
+      "SummaryBalance": 8333.28,
+      "AverageBalance": 4166.64
+    }
+  },
+  {
+    "_id": "MAD",
+    "value": {
+      "SummaryBalance": 3818.85,
+      "AverageBalance": 3818.85
+    }
+  },
+  {
+    "_id": "TZS",
+    "value": {
+      "SummaryBalance": 7052.370000000001,
+      "AverageBalance": 3526.1850000000004
+    }
+  },
+  {
+    "_id": "VUV",
+    "value": {
+      "SummaryBalance": 6418.27,
+      "AverageBalance": 6418.27
+    }
+  },
+  {
+    "_id": "EUR",
+    "value": {
+      "SummaryBalance": 245091.46999999994,
+      "AverageBalance": 4901.829399999999
+    }
+  },
+  {
+    "_id": "AFN",
+    "value": {
+      "SummaryBalance": 16755.49,
+      "AverageBalance": 5585.163333333334
+    }
+  },
+  {
+    "_id": "TJS",
+    "value": {
+      "SummaryBalance": 4087.71,
+      "AverageBalance": 4087.71
+    }
+  },
+  {
+    "_id": "DOP",
+    "value": {
+      "SummaryBalance": 20674.739999999998,
+      "AverageBalance": 5168.6849999999995
+    }
+  },
+  {
+    "_id": "ZWL",
+    "value": {
+      "SummaryBalance": 5792.17,
+      "AverageBalance": 5792.17
+    }
+  },
+  {
+    "_id": "ILS",
+    "value": {
+      "SummaryBalance": 16295.489999999998,
+      "AverageBalance": 5431.829999999999
+    }
+  },
+  {
+    "_id": "ZAR",
+    "value": {
+      "SummaryBalance": 11790.92,
+      "AverageBalance": 3930.306666666667
+    }
+  },
+  {
+    "_id": "MWK",
+    "value": {
+      "SummaryBalance": 3574.42,
+      "AverageBalance": 3574.42
+    }
+  },
+  {
+    "_id": "PHP",
+    "value": {
+      "SummaryBalance": 118606.27999999998,
+      "AverageBalance": 4941.928333333332
+    }
+  },
+  {
+    "_id": "VND",
+    "value": {
+      "SummaryBalance": 36160.259999999995,
+      "AverageBalance": 4520.032499999999
+    }
+  },
+  {
+    "_id": "SRD",
+    "value": {
+      "SummaryBalance": 5286.68,
+      "AverageBalance": 5286.68
+    }
+  },
+  {
+    "_id": "MMK",
+    "value": {
+      "SummaryBalance": 4629.42,
+      "AverageBalance": 4629.42
+    }
+  },
+  {
+    "_id": "CNY",
+    "value": {
+      "SummaryBalance": 470700.38000000006,
+      "AverageBalance": 4954.740842105264
+    }
+  }
+]

@@ -1,0 +1,42 @@
+#1
+curl –XPOST -H "Content-Type: application/json" -d '{"gpu": "RTX-2080", "cpu": "i7-10700k", "ram": 32, "drive": 2048}' -i http://192.168.0.25:8098/buckets/s26276/keys/phoenix
+curl –XPOST -H "Content-Type: application/json" -d '{"gpu": "RTX-2070s", "cpu": "i5-10400f", "ram": 16, "drive": 1024}' -i http://192.168.0.25:8098/buckets/s26276/keys/griffin
+curl –XPOST -H "Content-Type: application/json" -d '{"gpu": "RTX-2060", "cpu": "i3-10100", "ram": 16, "drive": 1024}' -i http://192.168.0.25:8098/buckets/s26276/keys/guardian
+curl –XPOST -H "Content-Type: application/json" -d '{"gpu": "GTX-1050ti", "cpu": "i3-9100f", "ram": 8, "drive": 512}' -i http://192.168.0.25:8098/buckets/s26276/keys/budget
+curl –XPOST -H "Content-Type: application/json" -d '{"gpu": "GTX-950", "cpu": "i5-4460", "ram": 8, "drive": 512}' -i http://192.168.0.25:8098/buckets/s26276/keys/trash
+____________________________________________________________________________________
+
+2#
+curl -i http://192.168.0.25:8098/buckets/s26276/keys/phoenix
+____________________________________________________________________________________
+
+3#
+curl –XPUT -H "Content-Type: application/json" -d '{"gpu": "GTX-1050ti", "cpu": "i3-9100f", "ram": 8, "drive": 512, "motherboard": "B350"}' -i http://192.168.0.25:8098/buckets/s26276/keys/budget
+____________________________________________________________________________________
+
+4#
+curl –XPUT -H "Content-Type: application/json" -d '{"gpu": "GTX-950", "cpu": "i5-4460", "ram": 8}' -i http://192.168.0.25:8098/buckets/s26276/keys/trash
+____________________________________________________________________________________
+
+5#
+curl –XPUT -H "Content-Type: application/json" -d '{"gpu": "RTX-3080", "cpu": "i5-10400f", "ram": 16, "drive": 1024}' -i http://192.168.0.25:8098/buckets/s26276/keys/griffin
+____________________________________________________________________________________
+
+#6
+curl -XDELETE -i http://192.168.0.25:8098/buckets/s26276/keys/phoenix
+____________________________________________________________________________________
+
+#7
+curl -i http://192.168.0.25:8098/buckets/s26276/keys/test
+____________________________________________________________________________________
+
+#8
+curl –XPOST -H "Content-Type: application/json" -d '{"gpu": "RTX-3090ti"}' -i http://192.168.0.25:8098/buckets/s26276/keys
+_____________________________________________________________________________________
+
+#9
+curl -i http://192.168.0.25:8098/buckets/s26276/keys/aHFMb4oDN6h4gYaOvA9hP6fYZfJ
+_____________________________________________________________________________________
+
+#10
+curl -XDELETE -i http://192.168.0.25:8098/buckets/s26276/keys/aHFMb4oDN6h4gYaOvA9hP6fYZfJ

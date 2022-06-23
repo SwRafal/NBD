@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "UAH",
+    "SummaryBalance": 40471.840000000004,
+    "AverageBalance": 5058.9800000000005
+  },
+  {
+    "_id": "NPR",
+    "SummaryBalance": 5792.26,
+    "AverageBalance": 5792.26
+  },
+  {
+    "_id": "MWK",
+    "SummaryBalance": 3574.42,
+    "AverageBalance": 3574.42
+  },
+  {
+    "_id": "ZAR",
+    "SummaryBalance": 11790.92,
+    "AverageBalance": 3930.306666666667
+  },
+  {
+    "_id": "SEK",
+    "SummaryBalance": 70840.19,
+    "AverageBalance": 5060.013571428572
+  },
+  {
+    "_id": "CNY",
+    "SummaryBalance": 470700.38,
+    "AverageBalance": 4954.740842105263
+  },
+  {
+    "_id": "PHP",
+    "SummaryBalance": 118606.28,
+    "AverageBalance": 4941.928333333333
+  },
+  {
+    "_id": "VND",
+    "SummaryBalance": 36160.26,
+    "AverageBalance": 4520.0325
+  },
+  {
+    "_id": "MMK",
+    "SummaryBalance": 4629.42,
+    "AverageBalance": 4629.42
+  },
+  {
+    "_id": "RWF",
+    "SummaryBalance": 4632.88,
+    "AverageBalance": 4632.88
+  },
+  {
+    "_id": "THB",
+    "SummaryBalance": 23021.96,
+    "AverageBalance": 4604.392
+  },
+  {
+    "_id": "GTQ",
+    "SummaryBalance": 5806.3,
+    "AverageBalance": 5806.3
+  },
+  {
+    "_id": "GBP",
+    "SummaryBalance": 6149.19,
+    "AverageBalance": 6149.19
+  },
+  {
+    "_id": "IRR",
+    "SummaryBalance": 26504.239999999998,
+    "AverageBalance": 4417.373333333333
+  },
+  {
+    "_id": "IQD",
+    "SummaryBalance": 4269.39,
+    "AverageBalance": 4269.39
+  },
+  {
+    "_id": "ALL",
+    "SummaryBalance": 3325.48,
+    "AverageBalance": 3325.48
+  },
+  {
+    "_id": "ISK",
+    "SummaryBalance": 4316.41,
+    "AverageBalance": 4316.41
+  },
+  {
+    "_id": "BOB",
+    "SummaryBalance": 5263.3,
+    "AverageBalance": 5263.3
+  },
+  {
+    "_id": "RUB",
+    "SummaryBalance": 119749.15,
+    "AverageBalance": 4989.547916666666
+  },
+  {
+    "_id": "KYD",
+    "SummaryBalance": 3760.89,
+    "AverageBalance": 3760.89
+  }
+]

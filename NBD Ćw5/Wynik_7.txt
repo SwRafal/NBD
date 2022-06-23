@@ -1,0 +1,8 @@
+curl -i http://192.168.0.25:8098/buckets/s26276/keys/test
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 06 Jun 2022 19:31:56 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found

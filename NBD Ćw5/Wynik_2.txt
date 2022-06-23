@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+zcdl+iFAiYx4rg/YxoTt8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s26276>; rel="up"
+Last-Modified: Mon, 06 Jun 2022 18:40:43 GMT
+ETag: "4F7i8CMFfJzQUJxAcMJavl"
+Date: Mon, 06 Jun 2022 18:41:59 GMT
+Content-Type: application/json
+Content-Length: 65
+
+{"gpu": "RTX-2080", "cpu": "i7-10700k", "ram": 32, "drive": 2048}
